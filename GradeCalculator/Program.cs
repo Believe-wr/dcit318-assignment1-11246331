@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("=== Grade Calculator ===");
 
-        Console.Write("Enter a numerical grade (0 - 100): ");
+        Console.Write("Enter a your grade (0 - 100): ");
         string input = Console.ReadLine();
 
         if (int.TryParse(input, out int grade) && grade >= 0 && grade <= 100)
@@ -24,7 +24,7 @@ class Program
             else
                 letterGrade = "F";
 
-            Console.WriteLine($"Your letter grade is: {letterGrade}");
+            Console.WriteLine($"Your grade is: {letterGrade}");
         }
         else
         {

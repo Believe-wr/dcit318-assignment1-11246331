@@ -1,0 +1,15 @@
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\bin\Debug\net9.0\TicketCalculator.exe
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\bin\Debug\net9.0\TicketCalculator.deps.json
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\bin\Debug\net9.0\TicketCalculator.runtimeconfig.json
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\bin\Debug\net9.0\TicketCalculator.dll
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\bin\Debug\net9.0\TicketCalculator.pdb
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfoInputs.cache
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfo.cs
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.sourcelink.json
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.dll
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\refint\TicketCalculator.dll
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.pdb
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\TicketCalculator.genruntimeconfig.cache
+C:\Users\bely7\OneDrive\Desktop\DCIT318 Assignment\dcit318-assignment1-11246331\TicketCalculator\obj\Debug\net9.0\ref\TicketCalculator.dll
